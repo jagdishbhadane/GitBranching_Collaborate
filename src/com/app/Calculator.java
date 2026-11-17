@@ -6,5 +6,9 @@ public class Calculator {
 	{
 		 System.out.println("Addition :"+(a+b));
 	}
+	public void sub(int a, int b)
+	{
+		 System.out.println("Subtraction :"+(a-b);
+	}
 
 }
